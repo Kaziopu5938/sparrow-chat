@@ -1,0 +1,20 @@
+{
+  "name": "sparrow-chat",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Sparrow Chat - a self-hosted live chat and customer messaging suite",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "test": "node --test test/"
+  },
+  "engines": {
+    "node": ">=22.5"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "ws": "^8.18.0"
+  }
+}

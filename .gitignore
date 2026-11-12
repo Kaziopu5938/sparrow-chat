@@ -1,0 +1,8 @@
+node_modules/
+data/
+.commandcode/
+.deploy-tools/
+*.log
+.env
+.DS_Store
+Thumbs.db

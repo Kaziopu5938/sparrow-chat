@@ -1,0 +1,32 @@
+{
+  "capturedAt": "2026-11-11",
+  "page": "https://www.tawk.to/",
+  "method": "Chrome PerformanceResourceTiming via browser automation, filtered to tawk.to hosts",
+  "widget": {
+    "propertyId": "521727297ca1334016000005",
+    "widgetId": "18nms7gql",
+    "loader": "https://embed.tawk.to/521727297ca1334016000005/18nms7gql",
+    "mainModule": "https://embed.tawk.to/_s/v4/app/6af164091d5/js/twk-main.js",
+    "configEndpoint": "https://va.tawk.to/v1/widget-settings?propertyId=521727297ca1334016000005&widgetId=18nms7gql&sv=null",
+    "sessionEndpoint": "https://va.tawk.to/v1/session/start",
+    "languages": [
+      "https://embed.tawk.to/_s/v4/app/6af164091d5/languages/en.json",
+      "https://embed.tawk.to/_s/v4/app/6af164091d5/languages/en_dev.json"
+    ],
+    "dynamicChunks": [
+      "https://embed.tawk.to/_s/v4/app/6af164091d5/js/twk-MinWidget-9V8ZkuBw.js",
+      "https://embed.tawk.to/_s/v4/app/6af164091d5/js/twk-BubbleWidget-SWFLECQ0.js",
+      "https://embed.tawk.to/_s/v4/app/6af164091d5/js/twk-MessagePreview-DO-XLFMx.js",
+      "https://embed.tawk.to/_s/v4/app/6af164091d5/js/twk-BrandingWidget-B2Df8pOj.js",
+      "https://embed.tawk.to/_s/v4/app/6af164091d5/js/twk-iframe-styles-CXt6ZRSO.js",
+      "https://embed.tawk.to/_s/v4/app/6af164091d5/js/twk-messenger-components.es-CPwW-3VV.js",
+      "https://embed.tawk.to/_s/v4/app/6af164091d5/js/twk-message-format-DKJXm_pH.js"
+    ],
+    "audio": "https://embed.tawk.to/_s/v4/assets/audio/chat_sound.mp3"
+  },
+  "businessSurfaces": {
+    "marketing": "https://www.tawk.to/ (Next.js/Turbopack app)",
+    "dashboard": "https://dashboard.tawk.to/login (authenticated agent inbox)",
+    "helpCenter": "https://help.tawk.to/ (property 521727297ca1334016000005)"
+  }
+}
